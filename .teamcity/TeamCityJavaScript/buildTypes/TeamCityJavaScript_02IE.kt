@@ -9,7 +9,7 @@ object TeamCityJavaScript_02IE : BuildType({
     name = "02 Internet Explorer"
 
     params {
-        param("Browser", "IE")
+        param("Browser", "Chrome")
     }
 
     dependencies {
