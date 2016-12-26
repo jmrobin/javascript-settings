@@ -31,9 +31,5 @@ object TeamCityJavaScript_JmrTemplate : Template({
         }
     }
 
-    triggers {
-        vcs {
-            id = "vcsTrigger"
-        }
-    }
+
 })
