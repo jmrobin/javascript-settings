@@ -13,7 +13,7 @@ object Project : Project({
     extId = "TeamCityJavaScript"
     parentId = "_Root"
     name = "TeamCity JavaScript"
-    description = "Wes Higbee tutorial"
+    description = "Wes Higbee JavaScript tutorial"
 
     vcsRoot(TeamCityJavaScript_HttpsGithubComJmrobinTeamcityCourseCards)
 
