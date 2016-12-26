@@ -21,5 +21,9 @@ object TeamCityJavaScript_03DeployToStaging : BuildType({
             snapshot {
             }
         }
+        dependency(TeamCityJavaScript.buildTypes.TeamCityJavaScript_02IE) {
+            snapshot {
+            }
+        }
     }
 })

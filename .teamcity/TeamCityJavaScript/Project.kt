@@ -20,6 +20,7 @@ object Project : Project({
     buildType(TeamCityJavaScript_01FastTests)
     buildType(TeamCityJavaScript_02Chrome)
     buildType(TeamCityJavaScript_02Firefox)
+    buildType(TeamCityJavaScript_02IE)
     buildType(TeamCityJavaScript_03DeployToStaging)
 
     template(TeamCityJavaScript_JmrTemplate)
